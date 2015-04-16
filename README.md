@@ -1,2 +1,3 @@
-# koa-request-version
-Get the API version info from requests
+# koa-accept
+
+Get structured request accept data.
